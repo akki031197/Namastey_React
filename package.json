@@ -1,0 +1,30 @@
+{
+  "name": "namastey_react",
+  "version": "1.0.0",
+  "description": "React course",
+  "scripts": {
+    "start": "npm run start",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akki031197/Namastey_React.git"
+  },
+  "author": "Akshay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akki031197/Namastey_React/issues"
+  },
+  "homepage": "https://github.com/akki031197/Namastey_React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
